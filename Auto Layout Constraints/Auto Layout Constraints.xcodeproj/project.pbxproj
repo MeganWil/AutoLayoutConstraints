@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D5A498E8232760B40099103B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A498E7232760B40099103B /* AppDelegate.swift */; };
-		D5A498EA232760B40099103B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A498E9232760B40099103B /* ViewController.swift */; };
+		D5A498EA232760B40099103B /* LayoutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A498E9232760B40099103B /* LayoutViewController.swift */; };
 		D5A498ED232760B40099103B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5A498EB232760B40099103B /* Main.storyboard */; };
 		D5A498F0232760B40099103B /* Auto_Layout_Constraints.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D5A498EE232760B40099103B /* Auto_Layout_Constraints.xcdatamodeld */; };
 		D5A498F2232760B70099103B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D5A498F1232760B70099103B /* Assets.xcassets */; };
@@ -44,7 +44,7 @@
 /* Begin PBXFileReference section */
 		D5A498E4232760B40099103B /* Auto Layout Constraints.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Auto Layout Constraints.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5A498E7232760B40099103B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D5A498E9232760B40099103B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D5A498E9232760B40099103B /* LayoutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutViewController.swift; sourceTree = "<group>"; };
 		D5A498EC232760B40099103B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D5A498EF232760B40099103B /* Auto_Layout_Constraints.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Auto_Layout_Constraints.xcdatamodel; sourceTree = "<group>"; };
 		D5A498F1232760B70099103B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -115,7 +115,7 @@
 			children = (
 				D5A49918232762C20099103B /* Images */,
 				D5A498E7232760B40099103B /* AppDelegate.swift */,
-				D5A498E9232760B40099103B /* ViewController.swift */,
+				D5A498E9232760B40099103B /* LayoutViewController.swift */,
 				D5A498EB232760B40099103B /* Main.storyboard */,
 				D5A498F1232760B70099103B /* Assets.xcassets */,
 				D5A498F3232760B70099103B /* LaunchScreen.storyboard */,
@@ -296,7 +296,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D5A498EA232760B40099103B /* ViewController.swift in Sources */,
+				D5A498EA232760B40099103B /* LayoutViewController.swift in Sources */,
 				D5A498E8232760B40099103B /* AppDelegate.swift in Sources */,
 				D5A498F0232760B40099103B /* Auto_Layout_Constraints.xcdatamodeld in Sources */,
 			);
