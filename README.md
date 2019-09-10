@@ -10,3 +10,6 @@ https://stackoverflow.com/questions/27049937/how-to-set-a-background-image-in-xc
 
 
 https://stackoverflow.com/questions/16868117/uitextview-that-expands-to-text-using-auto-layout
+
+
+https://stackoverflow.com/questions/27439220/swift-uiview-background-color-opacity
