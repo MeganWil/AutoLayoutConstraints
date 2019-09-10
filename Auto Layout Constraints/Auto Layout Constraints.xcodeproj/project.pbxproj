@@ -15,13 +15,12 @@
 		D5A498F5232760B70099103B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5A498F3232760B70099103B /* LaunchScreen.storyboard */; };
 		D5A49900232760B70099103B /* Auto_Layout_ConstraintsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A498FF232760B70099103B /* Auto_Layout_ConstraintsTests.swift */; };
 		D5A4990B232760B70099103B /* Auto_Layout_ConstraintsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A4990A232760B70099103B /* Auto_Layout_ConstraintsUITests.swift */; };
-		D5A49920232762C20099103B /* mhwMainMenu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5A49919232762C20099103B /* mhwMainMenu.jpg */; };
-		D5A49921232762C20099103B /* Nargacuga.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5A4991A232762C20099103B /* Nargacuga.jpg */; };
-		D5A49922232762C20099103B /* RajangMonster.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5A4991B232762C20099103B /* RajangMonster.jpg */; };
-		D5A49923232762C20099103B /* Beotodus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5A4991C232762C20099103B /* Beotodus.jpg */; };
-		D5A49924232762C20099103B /* Background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5A4991D232762C20099103B /* Background.jpg */; };
-		D5A49925232762C20099103B /* Banbaro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5A4991E232762C20099103B /* Banbaro.jpg */; };
-		D5A49926232762C20099103B /* VelkhanaElder.png in Resources */ = {isa = PBXBuildFile; fileRef = D5A4991F232762C20099103B /* VelkhanaElder.png */; };
+		D5A4992F2327A0C60099103B /* mhwMainMenu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5A499292327A0C60099103B /* mhwMainMenu.jpg */; };
+		D5A499302327A0C60099103B /* Nargacuga.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5A4992A2327A0C60099103B /* Nargacuga.jpg */; };
+		D5A499312327A0C60099103B /* Beotodus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5A4992B2327A0C60099103B /* Beotodus.jpg */; };
+		D5A499322327A0C60099103B /* Background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5A4992C2327A0C60099103B /* Background.jpg */; };
+		D5A499332327A0C60099103B /* Banbaro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5A4992D2327A0C60099103B /* Banbaro.jpg */; };
+		D5A499342327A0C60099103B /* VelkhanaElder.png in Resources */ = {isa = PBXBuildFile; fileRef = D5A4992E2327A0C60099103B /* VelkhanaElder.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,13 +55,12 @@
 		D5A49906232760B70099103B /* Auto Layout ConstraintsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Auto Layout ConstraintsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5A4990A232760B70099103B /* Auto_Layout_ConstraintsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Auto_Layout_ConstraintsUITests.swift; sourceTree = "<group>"; };
 		D5A4990C232760B70099103B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D5A49919232762C20099103B /* mhwMainMenu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mhwMainMenu.jpg; sourceTree = "<group>"; };
-		D5A4991A232762C20099103B /* Nargacuga.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nargacuga.jpg; sourceTree = "<group>"; };
-		D5A4991B232762C20099103B /* RajangMonster.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = RajangMonster.jpg; sourceTree = "<group>"; };
-		D5A4991C232762C20099103B /* Beotodus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Beotodus.jpg; sourceTree = "<group>"; };
-		D5A4991D232762C20099103B /* Background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Background.jpg; sourceTree = "<group>"; };
-		D5A4991E232762C20099103B /* Banbaro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Banbaro.jpg; sourceTree = "<group>"; };
-		D5A4991F232762C20099103B /* VelkhanaElder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VelkhanaElder.png; sourceTree = "<group>"; };
+		D5A499292327A0C60099103B /* mhwMainMenu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mhwMainMenu.jpg; sourceTree = "<group>"; };
+		D5A4992A2327A0C60099103B /* Nargacuga.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Nargacuga.jpg; sourceTree = "<group>"; };
+		D5A4992B2327A0C60099103B /* Beotodus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Beotodus.jpg; sourceTree = "<group>"; };
+		D5A4992C2327A0C60099103B /* Background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Background.jpg; sourceTree = "<group>"; };
+		D5A4992D2327A0C60099103B /* Banbaro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Banbaro.jpg; sourceTree = "<group>"; };
+		D5A4992E2327A0C60099103B /* VelkhanaElder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VelkhanaElder.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,7 +111,7 @@
 		D5A498E6232760B40099103B /* Auto Layout Constraints */ = {
 			isa = PBXGroup;
 			children = (
-				D5A49918232762C20099103B /* Images */,
+				D5A499282327A0C60099103B /* Images */,
 				D5A498E7232760B40099103B /* AppDelegate.swift */,
 				D5A498E9232760B40099103B /* LayoutViewController.swift */,
 				D5A498EB232760B40099103B /* Main.storyboard */,
@@ -143,16 +141,15 @@
 			path = "Auto Layout ConstraintsUITests";
 			sourceTree = "<group>";
 		};
-		D5A49918232762C20099103B /* Images */ = {
+		D5A499282327A0C60099103B /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				D5A49919232762C20099103B /* mhwMainMenu.jpg */,
-				D5A4991A232762C20099103B /* Nargacuga.jpg */,
-				D5A4991B232762C20099103B /* RajangMonster.jpg */,
-				D5A4991C232762C20099103B /* Beotodus.jpg */,
-				D5A4991D232762C20099103B /* Background.jpg */,
-				D5A4991E232762C20099103B /* Banbaro.jpg */,
-				D5A4991F232762C20099103B /* VelkhanaElder.png */,
+				D5A499292327A0C60099103B /* mhwMainMenu.jpg */,
+				D5A4992A2327A0C60099103B /* Nargacuga.jpg */,
+				D5A4992B2327A0C60099103B /* Beotodus.jpg */,
+				D5A4992C2327A0C60099103B /* Background.jpg */,
+				D5A4992D2327A0C60099103B /* Banbaro.jpg */,
+				D5A4992E2327A0C60099103B /* VelkhanaElder.png */,
 			);
 			name = Images;
 			path = ../../Images;
@@ -262,16 +259,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D5A49926232762C20099103B /* VelkhanaElder.png in Resources */,
-				D5A49920232762C20099103B /* mhwMainMenu.jpg in Resources */,
-				D5A49922232762C20099103B /* RajangMonster.jpg in Resources */,
+				D5A4992F2327A0C60099103B /* mhwMainMenu.jpg in Resources */,
 				D5A498F5232760B70099103B /* LaunchScreen.storyboard in Resources */,
-				D5A49923232762C20099103B /* Beotodus.jpg in Resources */,
+				D5A499342327A0C60099103B /* VelkhanaElder.png in Resources */,
 				D5A498F2232760B70099103B /* Assets.xcassets in Resources */,
-				D5A49925232762C20099103B /* Banbaro.jpg in Resources */,
-				D5A49924232762C20099103B /* Background.jpg in Resources */,
+				D5A499322327A0C60099103B /* Background.jpg in Resources */,
 				D5A498ED232760B40099103B /* Main.storyboard in Resources */,
-				D5A49921232762C20099103B /* Nargacuga.jpg in Resources */,
+				D5A499312327A0C60099103B /* Beotodus.jpg in Resources */,
+				D5A499302327A0C60099103B /* Nargacuga.jpg in Resources */,
+				D5A499332327A0C60099103B /* Banbaro.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
